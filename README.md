@@ -1,2 +1,2 @@
-# DS-Word-Frequency-Counter
-Process and visualize the frequency of words on certain Wikipedia articles.
+# Data Science Projects
+A whole bunch of crafty beginners to advanced level Data Science Projects.
